@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "marunoa",
+    "password": "lol",
+    "database": "react-kanban",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "marunoa",
+    "password": null,
+    "database": "react-kanban",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "marunoa",
+    "password": null,
+    "database": "react-kanban",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
